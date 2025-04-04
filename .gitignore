@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+.venv/
+venv/
+env/
+.myenv/
+.upload_pdf.ipynb/
